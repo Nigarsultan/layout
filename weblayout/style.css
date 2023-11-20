@@ -1,0 +1,195 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(253, 243, 243);
+    width: 1200px;
+    margin:auto;
+  
+  }
+  
+  /* Style the body */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color:white;
+    text-align:center;
+    padding:12px;
+    background-color: rgb(79, 80, 76);
+    height:840px;
+    border:2px solid black;
+  }
+  /*ful section */
+  .fulsection{
+      background-color: aqua;
+      width: 1160px;
+      margin:auto;
+      height:auto;
+      
+  
+  }
+  /*for header*/
+  .header{
+      background-color:rgb(117, 114, 114);
+      margin: 2px solid black;
+      width: 1160px;
+  }
+  .navbar{
+      background-color:rgb(204, 192, 192);
+      margin: 2px solid black;
+      width: 1160px;
+  }
+  .column1{
+      background-color:rgb(59, 61, 61);
+      width:300px;
+      float: left;
+      margin: 2px solid black;
+      height:700px;
+      
+  }
+  .header1{
+      background-color: rgb(229, 219, 209);
+      width:260px;
+      border:2px solid white;
+      
+  }
+  .nav1{
+      background-color: rgb(126, 124, 121);
+      width:260px;
+      border:2px solid white;
+      height:600px;
+  
+  }
+  .footer1{
+      background-color: rgb(96, 93, 91);
+      width:260px;
+      border:2px solid rgb(187, 183, 183);
+      padding:10px;
+  }
+  .column2{
+      background-color:rgb(69, 134, 134);
+      width:860px;
+      float: left;
+      border: 2px solid black;
+      height:700px;
+  }
+  .headerright{
+      background-color:rgb(14, 17, 17);
+      width:840px;
+      border: 3px solid rgb(236, 228, 228);
+      padding:15px;
+  }
+  .articler8{
+      width:840px;
+      background-color:rgb(105, 103, 103);
+      height:240px;
+      border: 2px solid rgb(236, 228, 228);
+      padding:5px;
+      
+  }
+  .headerright2{
+      background-color:rgb(14, 17, 17);
+      width:820px;
+      border: 2px solid rgb(236, 228, 228);
+      padding:15px;
+  }
+  .pright2{
+      width:600px;
+      background-color: rgb(68, 61, 61);
+      height:220px;
+      float: left;
+      border:2px solid white;
+  }
+  .asideright2{
+      width:200px;
+      background-color: rgb(156, 40, 40);
+      height:220px;
+      float: left;
+      border:2px solid white;
+      
+      
+  }
+  .article2{
+      width:840px;
+      background-color:rgb(169, 33, 33);
+      height:340px;
+      border: 2px solid rgb(20, 17, 17);
+      padding:10px;
+      
+      
+  }
+  .pright2{
+      width:600px;
+      background-color: rgb(68, 61, 61);
+      height:180px;
+      float: left;
+      border:2px solid rgb(18, 15, 15);
+      padding-top: 80px;
+      
+  }
+  .asideright2{
+      width:216px;
+      background-color: rgb(156, 40, 40);
+      height:180px;
+      float: left;
+      border:2px solid rgb(24, 21, 21);
+      padding-top: 80px;
+  
+      
+      
+  }
+  .footer3{
+      background-color:rgb(30, 179, 17);
+      width:820px;
+      border: 3px solid rgb(236, 228, 228);
+      padding:15px;
+  
+  }
+  .footerlast{
+      background-color: rgb(227, 197, 26);
+      width: 1160px;
+      margin:auto;
+      height:15px;
+     }
+  .footerrightbelowp{
+      background-color:rgb(149, 255, 0);
+      width:840px;
+      height:10px;
+     
+  }
+  .header5{
+      background-color: rgb(148, 148, 147);
+      border:2px solid black;
+      padding:20px;
+      padding-top: 10px;
+      width:820px;
+  }
+  .header6{
+      background-color: black;
+      border:3px solid rgb(202, 187, 187);
+      padding:10px;
+      width:820px;
+      height:40px;
+      float:left;
+      margin:auto;
+  
+  }
+  .footer7{
+      background-color: black;
+      border:3px solid rgb(202, 187, 187);
+      padding:10px;
+      width:840px;
+      height:40px;
+      
+      margin:auto;
+  }
+  .footer8{
+      background-color: black;
+      border:3px solid rgb(202, 187, 187);
+      padding:10px;
+      width:1160px;
+      height:40px;
+      display:flex;
+      margin:auto;
+      text-align:center;
+      padding-left: 580px;
+  
+  }
